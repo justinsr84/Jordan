@@ -1,0 +1,543 @@
+@media only screen and (min-width:1381px)
+{
+:not(.full-width-container).page-container {
+	border-radius: 40px; max-width: 1280px;
+}
+}
+@media only screen and (max-width:1380px) and (min-width:991px)
+{
+:not(.full-width-container).page-container {
+	border-radius: 40px; margin-right: auto; margin-left: auto; max-width: 94%;
+}
+}
+@media only screen and (min-width:991px)
+{
+.page-container.full-width-container {
+	margin: 0px; border-radius: 0px; max-width: 100%;
+}
+.site-footer {
+	border-radius: 0px;
+}
+.page-content.single-post {
+	margin: 0px auto; max-width: 1280px;
+}
+.post-content {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.list-view .post-content {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.list-view .post-navigation {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.list-view .comments-area {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.list-view .paging-navigation {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.single-post .site-content .post-navigation {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.single-post .site-content .comments-area {
+	padding-right: 50px; padding-left: 50px; margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+.list-view article {
+	margin-right: auto; margin-left: auto; max-width: 1280px;
+}
+}
+body {
+	color: rgb(102, 102, 102); line-height: 1.75em; font-family: "Poppins", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400;
+}
+p {
+	color: rgb(102, 102, 102); line-height: 1.75em; font-family: "Poppins", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400;
+}
+.form-control {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.form-control:focus {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.has-error .form-control {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.has-error .form-control:focus {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+h1 {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+h2 {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+h3 {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+h4 {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+h5 {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+h6 {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+.logo-text {
+	font-family: Poppins, Helvetica, sans-serif;
+}
+.logo-symbol {
+	font-family: Poppins, Helvetica, sans-serif;
+}
+h1 {
+	color: rgb(51, 51, 51); font-size: 32px;
+}
+h2 {
+	color: rgb(51, 51, 51); font-size: 24px;
+}
+h3 {
+	color: rgb(51, 51, 51); font-size: 18px;
+}
+h4 {
+	color: rgb(51, 51, 51); font-size: 16px;
+}
+h5 {
+	color: rgb(51, 51, 51); font-size: 14px;
+}
+h6 {
+	color: rgb(51, 51, 51); font-size: 12px;
+}
+.testimonial-author {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+.info-list li .title {
+	color: rgb(51, 51, 51); font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 600;
+}
+.timeline-item .item-period {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.mobile-site-title {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.form-control {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+.form-control:focus {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+.has-error .form-control {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+.has-error .form-control:focus {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+input[type='search'] {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+input[type='password'] {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+input[type='text'] {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+.header-search input.form-control {
+	font-family: "Poppins", Helvetica, sans-serif; font-style: normal; font-weight: 400;
+}
+.btn-primary {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.btn-secondary {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+button {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+input[type='button'] {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+input[type='submit'] {
+	font-family: "Poppins", Helvetica, sans-serif;
+}
+.header-image img {
+	width: auto; height: auto; max-height: 50px; max-width: 50px;
+}
+@media only screen and (max-width:992px)
+{
+.header-image img {
+	max-height: 30px;
+}
+}
+body {
+	background-color: rgb(245, 245, 245);
+}
+@media only screen and (min-width:991px)
+{
+.header.sticked {
+	
+}
+}
+.btn-primary:hover {
+	background-color: rgb(84, 202, 149);
+}
+.btn-primary:focus {
+	background-color: rgb(84, 202, 149);
+}
+button:hover {
+	background-color: rgb(84, 202, 149);
+}
+button:focus {
+	background-color: rgb(84, 202, 149);
+}
+input[type='button']:hover {
+	background-color: rgb(84, 202, 149);
+}
+input[type='button']:focus {
+	background-color: rgb(84, 202, 149);
+}
+input[type='submit']:hover {
+	background-color: rgb(84, 202, 149);
+}
+input[type='submit']:focus {
+	background-color: rgb(84, 202, 149);
+}
+.skill-percentage {
+	background-color: rgb(84, 202, 149);
+}
+.service-icon {
+	background-color: rgb(84, 202, 149);
+}
+.lm-pricing .lm-package-wrap.highlight-col .lm-heading-row span::after {
+	background-color: rgb(84, 202, 149);
+}
+.portfolio-page-nav > div.nav-item a:hover {
+	background-color: rgb(84, 202, 149);
+}
+.testimonials.owl-carousel .owl-nav .owl-prev:hover {
+	background-color: rgb(84, 202, 149);
+}
+.testimonials.owl-carousel .owl-nav .owl-next:hover {
+	background-color: rgb(84, 202, 149);
+}
+.clients.owl-carousel .owl-nav .owl-prev:hover {
+	background-color: rgb(84, 202, 149);
+}
+.clients.owl-carousel .owl-nav .owl-next:hover {
+	background-color: rgb(84, 202, 149);
+}
+.fw-pricing .fw-package-wrap.highlight-col .fw-heading-row span::after {
+	background-color: rgb(84, 202, 149);
+}
+.cat-links li a {
+	background-color: rgb(84, 202, 149);
+}
+.cat-links li a:hover {
+	background-color: rgb(84, 202, 149);
+}
+.calendar_wrap td#today {
+	background-color: rgb(84, 202, 149);
+}
+.nothing-found p {
+	background-color: rgb(84, 202, 149);
+}
+.blog-sidebar .sidebar-title h4::after {
+	background-color: rgb(84, 202, 149);
+}
+.block-title h2::after {
+	background-color: rgb(84, 202, 149);
+}
+h3.comment-reply-title::after {
+	background-color: rgb(84, 202, 149);
+}
+.portfolio-grid figure .portfolio-preview-desc h5::after {
+	background-color: rgb(84, 202, 149);
+}
+.preloader-spinner {
+	background-color: rgb(84, 202, 149);
+}
+.info-list li .title::after {
+	background-color: rgb(84, 202, 149);
+}
+.header .social-links a:hover {
+	background-color: rgb(84, 202, 149);
+}
+.clients.owl-carousel .owl-dot.active span {
+	background-color: rgb(84, 202, 149);
+}
+.clients.owl-carousel .owl-dot:hover span {
+	background-color: rgb(84, 202, 149);
+}
+.testimonials.owl-carousel .owl-dot.active span {
+	background-color: rgb(84, 202, 149);
+}
+.testimonials.owl-carousel .owl-dot:hover span {
+	background-color: rgb(84, 202, 149);
+}
+.logo-symbol {
+	background-color: rgb(84, 202, 149);
+}
+.blog-sidebar .sidebar-item {
+	background-color: rgb(255, 255, 255);
+}
+a {
+	color: rgb(84, 202, 149);
+}
+.form-group-with-icon.form-group-focus i {
+	color: rgb(84, 202, 149);
+}
+.site-title span {
+	color: rgb(84, 202, 149);
+}
+.header-search button:hover {
+	color: rgb(84, 202, 149);
+}
+.header-search button:focus {
+	color: rgb(84, 202, 149);
+}
+.block-title h3 span {
+	color: rgb(84, 202, 149);
+}
+.header-search button:hover {
+	color: rgb(84, 202, 149);
+}
+.header-search button:focus {
+	color: rgb(84, 202, 149);
+}
+.ajax-page-nav > div.nav-item a:hover {
+	color: rgb(84, 202, 149);
+}
+.project-general-info .fa {
+	color: rgb(84, 202, 149);
+}
+.comment-author a:hover {
+	color: rgb(84, 202, 149);
+}
+.comment-list .pingback a:hover {
+	color: rgb(84, 202, 149);
+}
+.comment-list .trackback a:hover {
+	color: rgb(84, 202, 149);
+}
+.comment-metadata a:hover {
+	color: rgb(84, 202, 149);
+}
+.comment-reply-title small a:hover {
+	color: rgb(84, 202, 149);
+}
+.entry-title a:hover {
+	color: rgb(84, 202, 149);
+}
+.entry-content .edit-link a:hover {
+	color: rgb(84, 202, 149);
+}
+.post-navigation a:hover {
+	color: rgb(84, 202, 149);
+}
+.image-navigation a:hover {
+	color: rgb(84, 202, 149);
+}
+.portfolio-grid figure i {
+	color: rgb(84, 202, 149);
+}
+.share-buttons a:hover {
+	color: rgb(84, 202, 149);
+}
+.info-block-w-icon i {
+	color: rgb(84, 202, 149);
+}
+.lm-info-block i {
+	color: rgb(84, 202, 149);
+}
+a {
+	color: rgb(0, 153, 204);
+}
+:not(.entry-tags-share).entry-meta a:hover {
+	color: rgb(0, 153, 204);
+}
+a:hover {
+	color: rgb(0, 102, 153);
+}
+.post-navigation .meta-nav:hover {
+	color: rgb(0, 102, 153);
+}
+.wp-block-pullquote.is-style-solid-color {
+	background-color: rgb(84, 202, 149);
+}
+:not(.is-style-outline).wp-block-button :not(.has-background).wp-block-button__link {
+	background-color: rgb(84, 202, 149);
+}
+.wp-block-button.is-style-outline .wp-block-button__link:active {
+	background-color: rgb(84, 202, 149);
+}
+.wp-block-button.is-style-outline .wp-block-button__link:focus {
+	background-color: rgb(84, 202, 149);
+}
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+	background-color: rgb(84, 202, 149);
+}
+.logo-symbol {
+	border-color: rgb(84, 202, 149);
+}
+.btn-primary {
+	border-color: rgb(84, 202, 149);
+}
+button {
+	border-color: rgb(84, 202, 149);
+}
+input[type='button'] {
+	border-color: rgb(84, 202, 149);
+}
+input[type='submit'] {
+	border-color: rgb(84, 202, 149);
+}
+.btn-primary:hover {
+	border-color: rgb(84, 202, 149);
+}
+.btn-primary:focus {
+	border-color: rgb(84, 202, 149);
+}
+button:hover {
+	border-color: rgb(84, 202, 149);
+}
+button:focus {
+	border-color: rgb(84, 202, 149);
+}
+input[type='button']:hover {
+	border-color: rgb(84, 202, 149);
+}
+input[type='button']:focus {
+	border-color: rgb(84, 202, 149);
+}
+input[type='submit']:hover {
+	border-color: rgb(84, 202, 149);
+}
+input[type='submit']:focus {
+	border-color: rgb(84, 202, 149);
+}
+.form-control + .form-control-border {
+	border-color: rgb(84, 202, 149);
+}
+.timeline-item {
+	border-color: rgb(84, 202, 149);
+}
+.timeline-item::before {
+	border-color: rgb(84, 202, 149);
+}
+.page-links a:hover {
+	border-color: rgb(84, 202, 149);
+}
+.paging-navigation .page-numbers.current {
+	border-color: rgb(84, 202, 149);
+}
+.paging-navigation .page-numbers:hover {
+	border-color: rgb(84, 202, 149);
+}
+.paging-navigation .page-numbers:focus {
+	border-color: rgb(84, 202, 149);
+}
+.portfolio-grid figure .portfolio-preview-desc h5::after {
+	border-color: rgb(84, 202, 149);
+}
+.paging-navigation a:hover {
+	border-color: rgb(84, 202, 149);
+}
+.skill-container {
+	border-color: rgb(84, 202, 149);
+}
+.btn-primary {
+	border-color: rgb(84, 202, 149);
+}
+button {
+	border-color: rgb(84, 202, 149);
+}
+input[type='button'] {
+	border-color: rgb(84, 202, 149);
+}
+input[type='submit'] {
+	border-color: rgb(84, 202, 149);
+}
+.blog-sidebar ul li::before {
+	border-color: rgb(84, 202, 149);
+}
+.share-buttons a:hover {
+	border-color: rgb(84, 202, 149);
+}
+.testimonials.owl-carousel .owl-nav .owl-prev:hover {
+	border-color: rgb(84, 202, 149);
+}
+.testimonials.owl-carousel .owl-nav .owl-next:hover {
+	border-color: rgb(84, 202, 149);
+}
+.clients.owl-carousel .owl-nav .owl-prev:hover {
+	border-color: rgb(84, 202, 149);
+}
+.clients.owl-carousel .owl-nav .owl-next:hover {
+	border-color: rgb(84, 202, 149);
+}
+.wp-block-pullquote {
+	border-color: rgb(84, 202, 149);
+}
+.wp-block-button .wp-block-button__link {
+	border-color: rgb(84, 202, 149);
+}
+.timeline-item h5.item-period {
+	border-color: rgb(84, 202, 149);
+}
+.page-title {
+	border-top-color: rgb(238, 238, 238); border-bottom-color: rgb(238, 238, 238); background-color: rgb(252, 252, 252);
+}
+.page-title h1 {
+	color: rgb(51, 51, 51); letter-spacing: 0px; font-family: Poppins, Helvetica, sans-serif; font-size: 44px; font-style: normal; font-weight: 600;
+}
+.page-title .page-subtitle h4 {
+	color: rgb(170, 170, 170); letter-spacing: 0px; font-family: Poppins, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 300;
+}
+@media only screen and (max-width:991px)
+{
+.page-title h1 {
+	font-size: 35.2px;
+}
+}
+.page-container {
+	background-color: rgba(255, 255, 255, 1);
+}
+.custom-page-content .page-content {
+	background-color: rgba(255, 255, 255, 1);
+}
+.portfolio-page-content {
+	background-color: rgba(255, 255, 255, 1);
+}
+.content-page-with-sidebar .page-content {
+	background-color: rgba(255, 255, 255, 1);
+}
+.single-page-content.content-page-with-sidebar .content-area .page-content {
+	background-color: rgba(255, 255, 255, 1);
+}
+.single-post .site-content .has-post-thumbnail .post-content {
+	background-color: rgba(255, 255, 255, 1);
+}
+.skills-second-style .skill-percentage {
+	border-color: rgba(255, 255, 255, 1);
+}
+.skills-first-style .skill-percentage {
+	border-color: rgba(255, 255, 255, 1);
+}
+.site-main-menu li a {
+	color: rgb(51, 51, 51); letter-spacing: 0px; font-family: "Poppins", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400;
+}
+.site-main-menu li a:hover {
+	color: rgb(51, 51, 51); letter-spacing: 0px; font-family: "Poppins", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: 400;
+}
+.site-main-menu > li > a {
+	line-height: 3.3em;
+}
+.site-footer {
+	border-color: rgb(238, 238, 238); background-color: rgb(252, 252, 252);
+}
+.footer-copyrights p {
+	color: rgb(170, 170, 170);
+}
+.site-footer .footer-social-links li a {
+	color: rgb(51, 51, 51);
+}
+.site-nav{padding-top:15px;}
+
+.logo-symbol{background: url("untitled.png");border-radius:0px;background-repeat:no-repeat;width:30px;height:65px;margin-top:-10px;}
